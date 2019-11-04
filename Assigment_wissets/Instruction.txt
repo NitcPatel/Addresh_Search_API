@@ -1,0 +1,13 @@
+Note: Run the npm Install commond
+
+      Then run run ng serve
+
+
+Update: Solutions 
+
+1. cors issue with localhost 4200. 
+	solu: { I use acces control allow origin extension}
+
+2. Resolve daily search  limit quota full from google place api.{ I create new api key}.
+
+3. Checks for error part apply { conditional statement}.
